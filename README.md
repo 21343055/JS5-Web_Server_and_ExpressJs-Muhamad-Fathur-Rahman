@@ -23,27 +23,6 @@ Mengatur Tampilan Aplikasi
 File CSS, JavaScript, dan gambar disediakan di folder public. Gunakan struktur direktori yang efisien untuk memisahkan file-file statis.
 Struktur Direktori
 
-css
-
-├── public
-│   ├── css
-│   ├── img
-│   ├── js
-│   └── file_html
-├── src
-│   ├── app.js
-│   └── ...
-├── templates
-│   ├── views
-│   │   ├── index.hbs
-│   │   ├── tentang.hbs
-│   │   ├── bantuan.hbs
-│   │   └── ...
-│   └── partials
-│       ├── header.hbs
-│       └── footer.hbs
-├── package.json
-└── ...
 
 Menjalankan Aplikasi
 
